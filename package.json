@@ -1,0 +1,15 @@
+{
+  "name": "otradnoye-bot",
+  "version": "1.0.0",
+  "description": "My own Discord bot",
+  "main": "bot.js",
+  "author": "YOUR-NAME-HERE",
+  "scripts": {
+    "start" : "php misha.php"
+  },
+  "dependencies": {
+    "gi": "^1.0.0",
+    "git": "^0.1.5",
+    "winston": "^2.4.1"
+  }
+}
