@@ -1,1 +1,1 @@
-web : misha.php
+worker: php misha.php
